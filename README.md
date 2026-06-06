@@ -140,7 +140,7 @@ Make sure you use the proper `python` command for your installation when running
 
 To set up an isolated environment for this project, you can use `pyenv` and `pyenv-virtualenv` to create a virtual environment for each part of the book. After setting up the virtual environment, you can install the required packages using `pip`.
 
-_Note:_  There are many tools for creating virtual environments in Python (such as `venv`, `conda`, and others). Feel free to choose your preferred option. Feel free to choose your own preferred option. The examples here use `pyenv` and `pyenv-virtualenv`.`
+_Note:_  There are many tools for creating virtual environments in Python (such as `venv`, `conda`, and others). Feel free to choose your preferred option. The examples here use `pyenv` and `pyenv-virtualenv`.`
 
 Follow the instructions found here to setup `pyenv` for your environment:
 
