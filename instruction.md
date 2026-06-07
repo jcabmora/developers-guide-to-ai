@@ -10,6 +10,6 @@ You are an expert document writer and a developer. You will help me write the do
   * The projects in the section must be listed in a table.
   * Each project in the table must have a description of the project.
 * Instructions for writing the description of the file:
-  * The desciption should explain what the file does and how it works.
+  * The description should explain what the file does and how it works.
   * The description should be written in a way that is easy to understand.
   
